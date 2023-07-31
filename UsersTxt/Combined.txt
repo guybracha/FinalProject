@@ -1,0 +1,7 @@
+John Doe,2000,john.doe@example.com,30,123456,555-1234,2021-09-01,student
+Jane Smith,1501,jane.smith@example.com,25,789012,555-5678,2021-08-15,student
+Mike Johnson,1000,mike.johnson@example.com,35,345678,555-9012,2021-10-20,student
+Guy Bracha,1407,guy.bracha@gmail.com,25,145141,1515151,2022-10-27,student
+Paul levi,2000,john.doe@example.com,30,123456,555-1234,2021-09-01,student
+Mordi Bracha,2023,john.doe@example.com,30,123456,555-1234,2021-09-01,student
+Eviatar Banai,Banai,john.doe@example.com,30,123456,555-1234,2021-09-01,student
